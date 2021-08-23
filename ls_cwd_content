@@ -1,0 +1,19 @@
+total 68
+drwxrwxr-x  6 bruno bruno 4096 Aug 23 19:17 .
+drwxr-xr-x 35 bruno bruno 4096 Aug 23 19:17 ..
+-rwxrw-r--  1 bruno bruno   32 Aug 23 17:41 0-hello_world
+drwxrwxr-x  4 bruno bruno 4096 Aug 19 00:01 0x00-shell_basics
+drwxrwxr-x  3 bruno bruno 4096 Aug 19 22:58 0x01-shell_permissions
+drwxrwxr-x  2 bruno bruno 4096 Aug 23 17:33 0x02-shell_redirections
+-rwxrw-r--  1 bruno bruno   31 Aug 23 17:58 1-confused_smiley
+-rwxrw-r--  1 bruno bruno   28 Aug 23 18:05 2-hellofile
+-rwxrw-r--  1 bruno bruno   39 Aug 23 18:12 3-twofiles
+-rwxrw-r--  1 bruno bruno   35 Aug 23 18:19 4-lastlines
+-rwxrw-r--  1 bruno bruno   35 Aug 23 18:28 5-firstlines
+-rwxrw-r--  1 bruno bruno   52 Aug 23 18:47 6-third_line
+-rw-rw-r--  1 bruno bruno   40 Aug 23 18:43 6-third_line~
+-rwxrw-r--  1 bruno bruno   74 Aug 23 19:01 7-file
+-rwxrw-r--  1 bruno bruno   36 Aug 23 19:15 8-cwd_state
+-rw-rw-r--  1 bruno bruno   38 Aug 23 19:03 \*\'Best
+drwxrwxr-x  8 bruno bruno 4096 Aug 23 19:11 .git
+-rw-rw-r--  1 bruno bruno    0 Aug 23 19:17 ls_cwd_content
