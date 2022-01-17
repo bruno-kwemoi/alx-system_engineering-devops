@@ -1,0 +1,1 @@
+this repository contains projects done while learning about loops, conditions and parsing
