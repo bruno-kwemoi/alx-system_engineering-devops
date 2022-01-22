@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
 # Script that configures an Ubuntu server
-printf "127.0.0.2	 localhost\n" >> /etc/hosts
-printf "8.8.8.8		 facebook.com" >> /etc/hosts
+cp /etc/hosts /hosts.new
+printf "127.0.0.2	 localhost\n" >> /etc/hosts.new
+printf "8.8.8.8		 facebook.com" >> /etc/hosts.new
+cp -f /hosts.new /etc/hosts
